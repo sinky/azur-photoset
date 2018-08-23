@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Azur Photoset Shortcode
-Plugin URI: http://my-azur.de
-Version: 0.1
+Plugin URI: https://github.com/sinky/azur-photoset
+Version: 1.0
 Author: Marco Krage
 Author URI: http://my-azur.de
-Description: Photoset Shortcode
+Description: Photoset Grid Shortcode
 GitHub Plugin URI: https://github.com/sinky/azur-photoset
 */
 

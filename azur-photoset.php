@@ -16,10 +16,9 @@ if ( ! defined( 'WPINC' ) ) {
 //error_reporting(E_ALL);
 //ini_set('display_errors', 1);
 
-
-remove_filter('the_content', 'wpautop');
-add_filter('the_content', 'wpautop' , 99);
-add_filter('the_content', 'shortcode_unautop', 100);
+remove_filter( 'the_content', 'wpautop' );
+add_filter( 'the_content', 'wpautop' , 99 );
+add_filter( 'the_content', 'shortcode_unautop', 100 );
 
 
 function azur_photoset_editor_buttons(){ ?>

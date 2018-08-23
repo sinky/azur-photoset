@@ -6,6 +6,7 @@ Version: 0.1
 Author: Marco Krage
 Author URI: http://my-azur.de
 Description: Photoset Shortcode
+GitHub Plugin URI: https://github.com/sinky/azur-photoset
 */
 
 // If this file is called directly, abort.

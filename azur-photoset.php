@@ -4,7 +4,7 @@ Plugin Name: Azur Photoset Shortcode
 Plugin URI: https://github.com/sinky/azur-photoset
 Version: 1.0
 Author: Marco Krage
-Author URI: http://my-azur.de
+Author URI: https://my-azur.de
 Description: Photoset Grid Shortcode
 */
 

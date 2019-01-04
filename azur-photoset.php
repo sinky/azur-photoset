@@ -6,7 +6,6 @@ Version: 1.0
 Author: Marco Krage
 Author URI: http://my-azur.de
 Description: Photoset Grid Shortcode
-GitHub Plugin URI: https://github.com/sinky/azur-photoset
 */
 
 // If this file is called directly, abort.
